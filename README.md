@@ -1,5 +1,5 @@
 
-Welcome to the Console-Based Trading Platform — a simple yet powerful application that allows users to trade items with one another through a command-line interface.
+Welcome to the Console-Based Trading Platform — a simple application that allows users to trade items with one another through a command-line interface.
 
 This application enables users to register, log in, and manage item trades in a secure and user-friendly environment. Whether you're looking to swap books, gadgets, or collectibles, this platform makes it easy to connect with other traders and manage your exchanges.
 
