@@ -1,0 +1,14 @@
+C:\Users\Mo\repos\Tradingsystemfinal\Tradingsystemfinal\bin\Debug\net8.0\Tradingsystemfinal.exe
+C:\Users\Mo\repos\Tradingsystemfinal\Tradingsystemfinal\bin\Debug\net8.0\Tradingsystemfinal.deps.json
+C:\Users\Mo\repos\Tradingsystemfinal\Tradingsystemfinal\bin\Debug\net8.0\Tradingsystemfinal.runtimeconfig.json
+C:\Users\Mo\repos\Tradingsystemfinal\Tradingsystemfinal\bin\Debug\net8.0\Tradingsystemfinal.dll
+C:\Users\Mo\repos\Tradingsystemfinal\Tradingsystemfinal\bin\Debug\net8.0\Tradingsystemfinal.pdb
+C:\Users\Mo\repos\Tradingsystemfinal\Tradingsystemfinal\obj\Debug\net8.0\Tradingsystemfinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mo\repos\Tradingsystemfinal\Tradingsystemfinal\obj\Debug\net8.0\Tradingsystemfinal.AssemblyInfoInputs.cache
+C:\Users\Mo\repos\Tradingsystemfinal\Tradingsystemfinal\obj\Debug\net8.0\Tradingsystemfinal.AssemblyInfo.cs
+C:\Users\Mo\repos\Tradingsystemfinal\Tradingsystemfinal\obj\Debug\net8.0\Tradingsystemfinal.csproj.CoreCompileInputs.cache
+C:\Users\Mo\repos\Tradingsystemfinal\Tradingsystemfinal\obj\Debug\net8.0\Tradingsystemfinal.dll
+C:\Users\Mo\repos\Tradingsystemfinal\Tradingsystemfinal\obj\Debug\net8.0\refint\Tradingsystemfinal.dll
+C:\Users\Mo\repos\Tradingsystemfinal\Tradingsystemfinal\obj\Debug\net8.0\Tradingsystemfinal.pdb
+C:\Users\Mo\repos\Tradingsystemfinal\Tradingsystemfinal\obj\Debug\net8.0\Tradingsystemfinal.genruntimeconfig.cache
+C:\Users\Mo\repos\Tradingsystemfinal\Tradingsystemfinal\obj\Debug\net8.0\ref\Tradingsystemfinal.dll
